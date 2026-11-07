@@ -54,12 +54,39 @@
 </p>
 
 
-## 💡 Developer Quote
+
+## 💡 Dev Quote
 
 <div align="center">
 
-### "Code is like humor. When you have to explain it, it's bad."
+<table>
+<tr>
+<td align="center" bgcolor="#191923">
 
-**— Cory House**
+<br>
+
+<h2>
+<i>
+<font color="#55CDBB">
+"Code is like humor. When you have to explain it, it's bad."
+</font>
+</i>
+</h2>
+
+<br>
+
+<p align="right">
+<i><font color="#A9A9C9">— Cory House</font></i>
+</p>
+
+<br>
+
+</td>
+</tr>
+</table>
+
+<br>
+
+⭐ <i>From <a href="https://github.com/abebawwebebe">abebawwebebe</a></i>
 
 </div>
