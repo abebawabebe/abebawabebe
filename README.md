@@ -53,19 +53,16 @@
   <img width="100%" src="https://github-readme-activity-graph-gold-gamma.vercel.app/graph?username=abebawabebe&bg_color=00000000&color=2ea043&line=2ea043&point=c9d1d9&area=true&hide_border=true" alt="activity graph" />
 </p>
 
-
-
-
 ## 💡 Dev Quote
 
 <div align="center">
 
-> <i>"Code is like humor. When you have to explain it, it's bad."</i>
->
-> — **Cory House**
+<img src="./dev-quote.svg"
+     width="100%"
+     alt="Code is like humor - Cory House"/>
 
-<br>
+<br><br>
 
-⭐ From [abebawwebebe](https://github.com/abebawwebebe)
+⭐ From [abebawwebebe](https://github.com/abebawabebe)
 
 </div>
