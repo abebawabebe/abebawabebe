@@ -4,15 +4,15 @@
   </a>
 </p>
 
-
+<!-- H2: Software Engineer -->
 <h2 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=2EA043&center=true&vCenter=true&width=800&height=60&lines=Software+Engineer" alt="Software Engineer" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=007BFF&center=true&vCenter=true&width=800&height=60&lines=Software+Engineer" alt="Software Engineer" />
 </h2>
 
+<!-- H3: Sequential animated phrases -->
 <h3 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=2EA043&center=true&vCenter=true&width=900&height=50&lines=Future+Full-Stack+Developer+%7C+Passionate+About+Coding%2C+Problem+Solving+%26+Innovation" alt="Future Full-Stack Developer" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=007BFF&center=true&vCenter=true&width=900&height=50&lines=Future+Full-Stack+Developer;Passionate+About+Coding;Problem+Solving+%26+Innovation" alt="Developer Introduction" />
 </h3>
-
 
 
 ## 💻 Tech Stack
