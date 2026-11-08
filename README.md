@@ -1,18 +1,19 @@
-<p align="center">
-  <a href="https://github.com/abebawabebe">
-    <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=2ea043&fontSize=54&height=90&width=826&text=Hello!%20I'm%20Abebaw%20Abebe" alt="Hello! I&#39;m Abebaw Abebe" />
-  </a>
-</p>
 
-<!-- H2: Software Engineer -->
+<!-- H1: Green - Animated once, stays visible -->
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=36&pause=1000&color=2EA043&center=true&vCenter=true&width=1100&height=70&lines=Hello!+I'm+Abebaw+Abebe+%7C+Welcome+to+my+GitHub+Profile&repeat=false" alt="Hello! I'm Abebaw Abebe | Welcome to my GitHub Profile" />
+</h1>
+
+<!-- H2: Blue - Animated once, stays visible -->
 <h2 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=007BFF&center=true&vCenter=true&width=800&height=60&lines=Software+Engineer" alt="Software Engineer" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=007BFF&center=true&vCenter=true&width=800&height=60&lines=Software+Engineer&repeat=false" alt="Software Engineer" />
 </h2>
 
-<!-- H3: Sequential animated phrases -->
+<!-- H3: Blue - Types and erases each phrase -->
 <h3 align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=007BFF&center=true&vCenter=true&width=900&height=50&lines=Future+Full-Stack+Developer;Passionate+About+Coding;Problem+Solving+%26+Innovation" alt="Developer Introduction" />
 </h3>
+
 
 
 ## 💻 Tech Stack
