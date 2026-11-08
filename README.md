@@ -4,9 +4,15 @@
   </a>
 </p>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Caveat&weight=600&size=26&pause=1000&color=2f81f7&center=true&vCenter=true&width=360&height=44&lines=Software%20Engineer" alt="Typing headlines" />
-</p>
+
+<h2 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=2EA043&center=true&vCenter=true&width=800&height=60&lines=Software+Engineer" alt="Software Engineer" />
+</h2>
+
+<h3 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=2EA043&center=true&vCenter=true&width=900&height=50&lines=Future+Full-Stack+Developer+%7C+Passionate+About+Coding%2C+Problem+Solving+%26+Innovation" alt="Future Full-Stack Developer" />
+</h3>
+
 
 
 ## 💻 Tech Stack
