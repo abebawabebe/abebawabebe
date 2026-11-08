@@ -1,22 +1,18 @@
 
-<!-- H1: Green - Larger animated heading -->
+<!-- H1: Green -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=48&pause=1000&color=2EA043&center=true&vCenter=true&width=1100&height=90&lines=Hello+world+%F0%9F%91%8B+!+I'm+Abebaw+Abebe&repeat=false" alt="Hello world 👋 ! I'm Abebaw Abebe" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=48&duration=3000&pause=1000&color=2EA043&center=true&vCenter=true&width=1100&height=90&lines=Hello+world+%F0%9F%91%8B+!+I'm+Abebaw+Abebe&repeat=false" alt="Hello world 👋 ! I'm Abebaw Abebe" />
 </h1>
 
-
-
-<!-- H2: Blue - Slow typing animation, no backward erasing -->
+<!-- H2: Blue -->
 <h2 align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&duration=3000&pause=1000&color=007BFF&center=true&vCenter=true&width=800&height=70&lines=Software+Engineer&repeat=false" alt="Software Engineer" />
 </h2>
 
-
-<!-- H3: Blue - Sequential typing and erasing -->
+<!-- H3: Blue -->
 <h3 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=007BFF&center=true&vCenter=true&width=900&height=50&lines=Future+Full-Stack+Developer;Passionate+About+Coding;Problem+Solving+%26+Innovation" alt="Developer Introduction" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1500&color=007BFF&center=true&vCenter=true&width=1000&height=50&lines=Future+Full-Stack+Developer;Passionate+About+Coding;Problem+Solving+%26+Innovation" alt="Developer Introduction" />
 </h3>
-
 
 ## 💻 Tech Stack
 
