@@ -5,10 +5,12 @@
 </h1>
 
 
-<!-- H2: Blue - Animated once -->
+
+<!-- H2: Blue - Slow typing animation, no backward erasing -->
 <h2 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=007BFF&center=true&vCenter=true&width=800&height=60&lines=Software+Engineer&repeat=false" alt="Software Engineer" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&duration=3000&pause=1000&color=007BFF&center=true&vCenter=true&width=800&height=70&lines=Software+Engineer&repeat=false" alt="Software Engineer" />
 </h2>
+
 
 <!-- H3: Blue - Sequential typing and erasing -->
 <h3 align="center">
