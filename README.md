@@ -1,7 +1,7 @@
 
 <!-- H1: Green -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=48&duration=3000&pause=1000&color=2EA043&center=true&vCenter=true&width=1100&height=90&lines=Hello+world+%F0%9F%91%8B+!+I'm+Abebaw+Abebe&repeat=false" alt="Hello world 👋 ! I'm Abebaw Abebe" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=48&duration=3000&pause=1000&color=2EA043&center=true&vCenter=true&width=1100&height=90&lines=Hello+%F0%9F%91%8B+!+I'm+Abebaw+Abebe&repeat=false" alt="Hello 👋 ! I'm Abebaw Abebe" />
 </h1>
 
 <!-- H2: Blue -->
