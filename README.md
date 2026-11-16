@@ -52,18 +52,17 @@
   <img height="165" src="https://github-readme-stats-five-sigma-99.vercel.app/api/top-langs/?username=abebawabebe&layout=compact&theme=tokyonight&title_color=2ea043&icon_color=2ea043&hide_border=true&bg_color=00000000&langs_count=8" alt="top langs" />
 </p>
 
-
 ### 📈 Activity Graph
 
 <p align="center">
-  <img
-    src="https://ghchart.rshah.org/2ea043/abebawabebe"
-    alt="Abebaw Abebe's GitHub Contribution Calendar"
-    width="100%"
-  />
+  <a href="https://github.com/abebawabebe">
+    <img
+      width="100%"
+      src="https://github-readme-activity-graph.vercel.app/graph?username=abebawabebe&bg_color=0d1117&color=c9d1d9&title_color=2ea043&line=2ea043&point=39d353&area_color=238636&area=true&hide_border=true&radius=8&height=300&days=31&custom_title=Abebaw%20Abebe%27s%20GitHub%20Activity"
+      alt="Abebaw Abebe's GitHub Activity Graph"
+    />
+  </a>
 </p>
-
-
 
 
 ## 💡 Dev Quote
